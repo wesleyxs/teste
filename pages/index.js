@@ -9,7 +9,7 @@ function Contador () {
 
     return (
         <div>
-            <div>Contador: {contador}</div>
+            <div>Contadorrrrrrrrr: {contador}</div>
             <button onClick={adicionarContador}>Adicionar</button>
         </div>
     )
